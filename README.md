@@ -7,4 +7,4 @@ this project uses TensorFlow, Keras, and scikit-learn
 
 Test Loss: 0.1096
 
-Test Predcition: 0.9720
+Test Prediction: 0.9720
